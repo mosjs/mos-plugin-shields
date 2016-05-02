@@ -17,7 +17,7 @@
 
 This module is installed via npm:
 
-``` sh
+```sh
 npm install mos-plugin-shields --save
 ```
 <!--/@-->
@@ -55,14 +55,14 @@ The currently supported shields are: travis, coveralls, npm, deps, devDeps, peer
 * * *
 
 <!--@dependencies({ shield: 'flat-square' })-->
-## Dependencies [![Dependency status for master](https://img.shields.io/david/zkochan/mos-plugin-shields/master.svg?style=flat-square)](https://david-dm.org/zkochan/mos-plugin-shields/master)
+## <a name="dependencies">Dependencies</a> [![Dependency status for master](https://img.shields.io/david/zkochan/mos-plugin-shields/master.svg?style=flat-square)](https://david-dm.org/zkochan/mos-plugin-shields/master)
 
 - [shields](https://github.com/kenany/shields): Generate shields for your current project's README
 
 <!--/@-->
 
 <!--@devDependencies({ shield: 'flat-square' })-->
-## Dev Dependencies [![devDependency status for master](https://img.shields.io/david/dev/zkochan/mos-plugin-shields/master.svg?style=flat-square)](https://david-dm.org/zkochan/mos-plugin-shields/master#info=devDependencies)
+## <a name="dev-dependencies">Dev Dependencies</a> [![devDependency status for master](https://img.shields.io/david/dev/zkochan/mos-plugin-shields/master.svg?style=flat-square)](https://david-dm.org/zkochan/mos-plugin-shields/master#info=devDependencies)
 
 - [chai](https://github.com/chaijs/chai): BDD/TDD assertion library for node.js and the browser. Test framework agnostic.
 - [cz-conventional-changelog](https://github.com/commitizen/cz-conventional-changelog): Commitizen adapter following the conventional-changelog format.

@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zkochan/mos-plugin-shields"
+    "url": "https://github.com/mosjs/mos-plugin-shields"
   },
   "keywords": [
     "mos-plugin",
@@ -35,9 +35,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zkochan/mos-plugin-shields/issues"
+    "url": "https://github.com/mosjs/mos-plugin-shields/issues"
   },
-  "homepage": "https://github.com/zkochan/mos-plugin-shields#readme",
+  "homepage": "https://github.com/mosjs/mos-plugin-shields#readme",
   "dependencies": {
     "shields": "^2.1.0"
   },

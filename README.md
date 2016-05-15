@@ -1,26 +1,20 @@
-<!--@'# ' + package.name-->
+<!--@h1([pkg.name])-->
 # mos-plugin-shields
 <!--/@-->
 
-<!--@'> ' + package.description-->
+<!--@blockquote([pkg.description])-->
 > A mos plugin for creating markdown shields
 <!--/@-->
 
 <!--@shields.flatSquare('npm', 'travis', 'coveralls')-->
-[![NPM version](https://img.shields.io/npm/v/mos-plugin-shields.svg?style=flat-square)](https://www.npmjs.com/package/mos-plugin-shields)
-[![Build status for master](https://img.shields.io/travis/mosjs/mos-plugin-shields/master.svg?style=flat-square)](https://travis-ci.org/mosjs/mos-plugin-shields)
-[![Test coverage for master](https://img.shields.io/coveralls/mosjs/mos-plugin-shields/master.svg?style=flat-square)](https://coveralls.io/r/mosjs/mos-plugin-shields?branch=master)
+[![NPM version](https://img.shields.io/npm/v/mos-plugin-shields.svg?style=flat-square)](https://www.npmjs.com/package/mos-plugin-shields) [![Build status for master](https://img.shields.io/travis/mosjs/mos-plugin-shields/master.svg?style=flat-square)](https://travis-ci.org/mosjs/mos-plugin-shields) [![Test coverage for master](https://img.shields.io/coveralls/mosjs/mos-plugin-shields/master.svg?style=flat-square)](https://coveralls.io/r/mosjs/mos-plugin-shields?branch=master)
 <!--/@-->
 
-<!--@installation()-->
 ## Installation
 
-This module is installed via npm:
-
 ```sh
-npm install mos-plugin-shields --save
+npm install --save mos-plugin-shields
 ```
-<!--/@-->
 
 ## Usage
 
@@ -46,11 +40,9 @@ The currently supported shields are: travis, coveralls, npm, deps, devDeps, peer
 
 **NOTE:** The shields will be created for the master branch.
 
-<!--@license()-->
 ## License
 
 [MIT](./LICENSE) © [Zoltan Kochan](http://kochan.io)
-<!--/@-->
 
 * * *
 

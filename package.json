@@ -39,7 +39,7 @@
   },
   "homepage": "https://github.com/mosjs/mos-plugin-shields#readme",
   "dependencies": {
-    "shields": "^2.1.0"
+    "shieldman": "^1.0.0"
   },
   "devDependencies": {
     "chai": "^3.4.1",

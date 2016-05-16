@@ -49,7 +49,7 @@ The currently supported shields are: travis, coveralls, npm, deps, devDeps, peer
 <!--@dependencies({ shield: 'flat-square' })-->
 ## <a name="dependencies">Dependencies</a> [![Dependency status for master](https://img.shields.io/david/mosjs/mos-plugin-shields/master.svg?style=flat-square)](https://david-dm.org/mosjs/mos-plugin-shields/master)
 
-- [shields](https://github.com/kenany/shields): Generate shields for your current project's README
+- [shieldman](https://github.com/zkochan/shieldman): Badges creator
 
 <!--/@-->
 

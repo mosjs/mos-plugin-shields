@@ -2,7 +2,7 @@
 const describe = require('mocha').describe
 const it = require('mocha').it
 const expect = require('chai').expect
-const createShieldsRenderer = require('./create-shields-renderer')
+import createShieldsRenderer from './create-shields-renderer'
 
 describe('createShieldsRenderer', () => {
   it('should create flat shield by default', () => {

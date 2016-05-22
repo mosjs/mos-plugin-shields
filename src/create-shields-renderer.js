@@ -1,9 +1,8 @@
-'use strict'
-const shield = require('shieldman')
+import shield from 'shieldman'
 
 const slice = Array.prototype.slice
 
-module.exports = opts => {
+export default opts => {
   const github = opts.github
   const pkg = opts.pkg
 
